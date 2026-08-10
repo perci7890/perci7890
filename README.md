@@ -1,22 +1,22 @@
 # 👋 Hey, I'm Faisal Hussain
 
-### Full-Stack Software Engineer · Flutter Developer · Builder
+### Full-Stack Software Engineer · Flutter Developer · Backend Engineer
 
-I build **web & mobile products, backend systems, APIs, and e-commerce integrations**.
+I build **web & mobile applications, backend systems, APIs, and e-commerce integrations**.
 
-I enjoy taking an idea from **concept → architecture → development → integration → production** and turning it into something people can actually use.
+I enjoy turning ideas into production-ready software — from designing databases and APIs to building the frontend, mobile experience, integrations, and everything in between.
 
 ---
 
-### ⚡ What I Do
+## ⚡ What I Build
 
 ```text
-🌐 Full-Stack Development
-📱 Flutter & Mobile Apps
-⚙️ Backend & REST APIs
+🌐 Full-Stack Web Applications
+📱 Cross-Platform Mobile Apps
+⚙️ Backend Systems & REST APIs
 🛒 E-commerce & Marketplace Integrations
-📦 Product & Inventory Management Systems
-🔄 Multi-platform Synchronization
+📦 Product & Inventory Management
+🔄 Multi-Platform Synchronization
 🔐 Authentication & Authorization
 💳 Payments & Subscriptions
 📊 Admin Dashboards & Business Systems
@@ -24,125 +24,129 @@ I enjoy taking an idea from **concept → architecture → development → integ
 
 ---
 
-## 🧰 Tech I Work With
+## 🧰 Tech Stack
 
-**Languages**
+### Frontend
 
-`TypeScript` · `JavaScript` · `Dart` · `SQL`
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-**Frontend**
+### Mobile
 
-`Angular` · `React` · `Next.js` · `Vite` · `Tailwind CSS`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
 
-**Mobile**
+### Backend
 
-`Flutter` · `Dart`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 
-**Backend**
+### Databases & Infrastructure
 
-`Node.js` · `Express.js` · `NestJS` · `REST APIs` · `JWT`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
 
-**Databases**
+### Platforms & Services
 
-`PostgreSQL` · `MySQL` · `TypeORM`
-
-**Infrastructure & Tools**
-
-`Docker` · `RabbitMQ` · `Firebase` · `Git` · `GitHub`
-
-**Integrations**
-
-`Shopify` · `WooCommerce` · `eBay` · `Amazon` · `TikTok Shop` · `Stripe`
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square\&logo=shopify\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
+![eBay](https://img.shields.io/badge/eBay-E53238?style=flat-square\&logo=ebay\&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=flat-square\&logo=amazon\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square\&logo=stripe\&logoColor=white)
 
 ---
 
-## 🛒 Building Beyond a Single Store
+## 🛒 E-commerce & Marketplace Engineering
 
-One of the areas I particularly enjoy is **e-commerce and marketplace engineering**.
+I work on systems that connect businesses with multiple commerce platforms and centralize their operations.
 
-I've worked on systems designed to connect a central application with multiple commerce platforms, allowing businesses to manage their operations from one place.
+### 🔗 Platform Integrations
 
-```text
-                    ┌─────────────┐
-                    │   Admin UI  │
-                    └──────┬──────┘
-                           │
-                    ┌──────▼──────┐
-                    │   Backend   │
-                    │   & APIs    │
-                    └──────┬──────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-     ┌────▼────┐      ┌────▼────┐      ┌───▼────┐
-     │ Shopify │      │WooCommerce│      │ eBay   │
-     └─────────┘      └──────────┘      └────────┘
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                    ┌──────▼──────┐
-                    │   Products  │
-                    │  Inventory  │
-                    │    Orders   │
-                    └─────────────┘
-```
+**Shopify · WooCommerce · eBay · Amazon · TikTok Shop**
 
-### Things I work with
+### 📦 Capabilities
 
-* Product creation & management
-* Product import/export
+* Product creation and management
+* Product import and publishing
 * Inventory synchronization
 * Order synchronization
 * Multi-store management
-* Platform-specific controls
-* Webhooks
-* Sync status & history
-* Error handling & retries
+* Platform-specific product controls
+* Webhooks and event handling
+* Sync history and status tracking
+* Error handling and retry workflows
 * Store connection management
 
 ---
 
-## 📱 Mobile Development
+## 📱 Flutter & Mobile Development
 
-I use **Flutter** to build cross-platform applications with real-world production requirements.
+I build cross-platform applications with **Flutter**, including applications that require real-world production features.
 
-Some areas I've worked with:
+```text
+Authentication
+      ↓
+REST APIs
+      ↓
+Local Storage
+      ↓
+Offline Support
+      ↓
+Subscriptions & Payments
+      ↓
+Firebase Services
+      ↓
+Production App
+```
 
-* 🔐 Authentication & account management
-* 💳 Subscriptions & payments
-* ▶️ Media & video playback
-* 🔗 Deep linking
-* 🔥 Firebase
-* 🌐 REST API integration
-* 📡 Offline-first functionality
-* 💾 Local persistence
-* 🛍️ Backend-powered applications
+Areas I've worked with include:
+
+* Authentication & account management
+* Google Play subscriptions
+* Payments
+* REST API integration
+* Offline-first functionality
+* Local persistence
+* Firebase
+* Deep linking
+* Video & media playback
+* Backend synchronization
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
 ### 🛍️ Multi-Platform Commerce & Inventory System
 
-A full-stack platform designed to manage stores, products, inventory and orders across multiple commerce platforms.
+A full-stack platform for managing **stores, products, inventory and orders** across multiple commerce platforms.
 
-**Stack**
+**Built with**
 
-`Angular` `Node.js` `Express` `TypeScript` `TypeORM` `PostgreSQL`
+`Angular` · `Node.js` · `Express` · `TypeScript` · `TypeORM` · `PostgreSQL`
 
 **Integrations**
 
-`Shopify` `WooCommerce` `eBay` `Amazon` `TikTok Shop`
+`Shopify` · `WooCommerce` · `eBay` · `Amazon` · `TikTok Shop`
 
 ---
 
 ### 📚 YouinX
 
-A Flutter-based digital reading application focused on delivering a smooth content consumption experience.
+A Flutter-based digital reading application designed around a smooth content consumption experience.
 
-**Stack**
+**Built with**
 
-`Flutter` `Dart` `Firebase` `REST APIs`
+`Flutter` · `Dart` · `Firebase` · `REST APIs`
 
 ---
 
@@ -150,37 +154,37 @@ A Flutter-based digital reading application focused on delivering a smooth conte
 
 A business and appointment ecosystem built around tanning services.
 
-**Stack**
+**Built with**
 
-`Flutter` `Node.js` `Express` `PostgreSQL` `REST APIs`
+`Flutter` · `Node.js` · `Express` · `PostgreSQL` · `REST APIs`
 
 ---
 
-## 🧠 How I Like to Build
+## 🧠 My Development Approach
 
 ```text
-Idea
- ↓
-Architecture
- ↓
-Database & APIs
- ↓
-Frontend / Mobile
- ↓
-Integrations
- ↓
-Testing
- ↓
-Production
- ↓
-Iterate 🚀
+💡 Idea
+   ↓
+🏗️ Architecture
+   ↓
+🗄️ Database Design
+   ↓
+⚙️ Backend & APIs
+   ↓
+🎨 Web / Mobile UI
+   ↓
+🔗 Integrations
+   ↓
+🧪 Testing
+   ↓
+🚀 Production
+   ↓
+🔄 Improve & Iterate
 ```
 
-I care about more than just making something work.
+I care about building software that is:
 
-I focus on:
-
-**Clean architecture · Security · Scalability · Maintainability · User experience**
+**Clean · Secure · Scalable · Maintainable · Practical**
 
 ---
 
@@ -188,34 +192,34 @@ I focus on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
 ---
 
-## 🐍 A Little GitHub Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph animation"/>
 
 </div>
 
 ---
 
-## 🌐 Find Me
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://faisalhussain.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-faisalhussain.netlify.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-faisalhussain.netlify.app-111827?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/perci7890">
-<img src="https://img.shields.io/badge/GitHub-perci7890-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-perci7890-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -226,6 +230,6 @@ I focus on:
 
 ### 💻 Build. Integrate. Ship. Repeat.
 
-**Thanks for stopping by! 👋**
+**Thanks for visiting! 👋**
 
 </div>
