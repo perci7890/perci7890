@@ -23,7 +23,6 @@ I enjoy turning ideas into production-ready software — from designing database
 ```
 
 ---
-
 ## 🧰 Tech Stack
 
 ### Frontend
@@ -51,16 +50,22 @@ I enjoy turning ideas into production-ready software — from designing database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA4B71?style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ### Platforms & Services
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square\&logo=shopify\&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=flat-square\&logo=shopify\&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
 ![eBay](https://img.shields.io/badge/eBay-E53238?style=flat-square\&logo=ebay\&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=flat-square\&logo=amazon\&logoColor=white)
+![TikTok Shop](https://img.shields.io/badge/TikTok%20Shop-000000?style=flat-square\&logo=tiktok\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square\&logo=stripe\&logoColor=white)
 
@@ -68,13 +73,25 @@ I enjoy turning ideas into production-ready software — from designing database
 
 ## 🛒 E-commerce & Marketplace Engineering
 
-I work on systems that connect businesses with multiple commerce platforms and centralize their operations.
+I build **e-commerce storefronts, backend systems, and multi-platform integrations** that help businesses manage products, inventory, orders, and stores from a centralized system.
+
+### 🏪 Shopify & Storefront Development
+
+* Shopify theme development
+* **Shopify Liquid**
+* Custom Shopify sections and components
+* Theme customization
+* Custom JavaScript & CSS
+* Responsive storefront development
+* Product and collection layouts
+* Navigation & mega menus
+* Shopify API integrations
 
 ### 🔗 Platform Integrations
 
 **Shopify · WooCommerce · eBay · Amazon · TikTok Shop**
 
-### 📦 Capabilities
+### 📦 Commerce Capabilities
 
 * Product creation and management
 * Product import and publishing
@@ -83,9 +100,21 @@ I work on systems that connect businesses with multiple commerce platforms and c
 * Multi-store management
 * Platform-specific product controls
 * Webhooks and event handling
+* Store connection management
 * Sync history and status tracking
 * Error handling and retry workflows
-* Store connection management
+
+### ⚙️ Background Processing & Synchronization
+
+For synchronization and long-running commerce operations, I work with **Redis, BullMQ, and RabbitMQ** to handle:
+
+* Background synchronization jobs
+* Product and inventory sync queues
+* Order processing
+* Retry and failure workflows
+* Job scheduling
+* Queue monitoring
+* Asynchronous platform operations
 
 ---
 
