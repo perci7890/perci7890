@@ -15,7 +15,10 @@
 <br />
 
 <a href="https://faisalhussain.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,dart,flutter,nodejs,postgres,redis,docker,graphql,supabase&theme=dark" alt="Core Technologies Deck" />
+  <img
+    src="https://skillicons.dev/icons?i=angular,react,nextjs,js,ts,html,css,tailwind,vite,bootstrap,flutter,dart,nodejs,express,nestjs,php,wordpress,mysql,postgres,redis,supabase,firebase,prisma,graphql,docker,git,github,githubactions,linux,nginx,aws,azure,vercel,netlify,postman,figma,ai,androidstudio,vscode&perline=10&theme=dark"
+    alt="Faisal Hussain - Technology Stack"
+  />
 </a>
 
 </div>
