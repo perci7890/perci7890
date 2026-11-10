@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal445.fh@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-Message_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923232421103)
 [![Location](https://img.shields.io/badge/LOCATION-Karachi%2C_Pakistan-374151?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Karachi%2C+Pakistan)
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1100&color=9CA3AF&center=true&vCenter=true&width=800&lines=Building+Web+%26+Mobile+Applications;Flutter+%7C+Angular+%7C+React+%7C+Node.js;Backend+APIs+%26+Business+Automation;E-Commerce+%26+Marketplace+Integrations;From+Idea+to+Production" alt="Developer specialties" />
