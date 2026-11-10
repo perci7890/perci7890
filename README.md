@@ -134,7 +134,6 @@ Custom WordPress plugins, data-entry tools, REST integrations, responsive busine
 <br/><br/>
 
 </div>
----
 
 ## 🔗 How I Approach Integrations
 
