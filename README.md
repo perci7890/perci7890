@@ -67,18 +67,6 @@ A business platform for managing stores, products, inventory and marketplace wor
 
 `Angular` `Node.js` `Express` `TypeScript` `TypeORM` `PostgreSQL` `Marketplace APIs`
 
-<div align="center">
-
-<a href="https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b">
-  <img src="https://img.shields.io/badge/%E2%96%B6_WATCH_PROJECT_DEMO-Multi--Store_Inventory-374151?style=for-the-badge&logoColor=white" alt="Watch Multi-Store Inventory demo" />
-</a>
-
-**[▶ Watch the full Multi-Store Inventory demo on Kapwing](https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b)**
-
-</div>
-
-> GitHub README does not support iframe video embeds. The demo opens on Kapwing.
-
 ### 02 / YouinX — Digital Reading Ecosystem
 
 Contributed to a digital content ecosystem spanning a **Flutter reading application**, an **Angular BookStudio** interface, and **React-based administration**. Worked on user experiences, application flows and backend-connected features.
