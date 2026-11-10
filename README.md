@@ -48,15 +48,31 @@ I am a **Full-Stack & Mobile Software Engineer** specializing in architecting re
 
 <br />
 
-```text
-┌──(faisal㉿portfolio)-[~/system/telemetry]
-└─$ ./run_diagnostics.sh --mode=production
-[✔] Core Architecture .... Distributed Multi-Store Sync (BullMQ + Redis)
-[✔] Mobile Pipeline ...... Flutter Engine 3.x (SQLite/Drift Offline-First)
-[✔] Automation Engine .... n8n Clusters + Supabase pgvector RAG
-[✔] Uptime / Reliability . 99.98% Idempotent Webhook Transactions
-[✔] Status ............... READY FOR HIGH-IMPACT COLLABORATIONS
-```
+<h3 align="center">⚡ Engineering Snapshot</h3>
+
+<p align="center">
+  Building scalable applications, reliable backend systems, and connected digital experiences.
+</p>
+
+<div align="center">
+
+| 🏗️ Architecture | 📱 Mobile Engineering |
+|:---|:---|
+| Full-Stack Systems & REST APIs | Flutter · Android · iOS |
+| PostgreSQL · TypeORM · Redis | Firebase · Offline Workflows |
+
+| 🔄 Integrations | 🤖 AI & Automation |
+|:---|:---|
+| Shopify · WooCommerce · eBay | OpenAI · Gemini APIs |
+| Multi-Store Inventory & Sync | Intelligent Content Workflows |
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Scalable_Software-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVELOPMENT-Production_Oriented-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COLLABORATION-Open_to_Opportunities-16A34A?style=for-the-badge"/>
+
+</div>
 
 </div>
 
