@@ -21,8 +21,6 @@
 
 <img src="https://img.shields.io/badge/FOCUS-Full--Stack_Engineering-374151?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BUILD-Mobile_%26_Backend-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOCATION-Pakistan-6B7280?style=for-the-badge" />
-
 </div>
 
 ---
