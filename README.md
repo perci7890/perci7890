@@ -1,242 +1,199 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=210&section=header&text=FAISAL%20HUSSAIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Systems%20Lead&descSize=16&descAlignY=60" alt="Faisal Hussain Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:6B7280&height=220&section=header&text=FAISAL%20HUSSAIN&fontSize=46&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Software%20Engineer%20%7C%20Flutter%20%7C%20Backend%20Engineering&descSize=16&descAlignY=59" alt="Faisal Hussain header" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-faisalhussain.netlify.app-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://faisalhussain.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-faisal--hussain-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hussain-632019165/)
-[![Email](https://img.shields.io/badge/EMAIL-faisal445.fh%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal445.fh@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B92_323_2421103-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923232421103)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore_Projects-374151?style=flat-square&logo=googlechrome&logoColor=white)](https://faisalhussain.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hussain-632019165/)
+[![Email](https://img.shields.io/badge/EMAIL-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal445.fh@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-Message_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923232421103)
 [![Location](https://img.shields.io/badge/LOCATION-Karachi%2C_Pakistan-374151?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Karachi%2C+Pakistan)
 
-<br />
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Architect+%E2%80%A2+React%2C+Angular%2C+Next.js%2C+Node.js;Cross-Platform+Mobile+Engineer+%E2%80%A2+Flutter+%26+Dart;Distributed+E-Commerce+Sync+%26+High-Concurrency+Pipelines;Autonomous+AI+Workflows+%26+Enterprise+Integrations" alt="Typing Animation" />
-
-<br />
-
-<a href="https://faisalhussain.netlify.app/">
-  <img
-    src="https://skillicons.dev/icons?i=angular,react,nextjs,js,ts,html,css,tailwind,vite,bootstrap,flutter,dart,nodejs,express,nestjs,php,wordpress,mysql,postgres,redis,supabase,firebase,prisma,graphql,docker,git,github,githubactions,linux,nginx,aws,azure,vercel,netlify,postman,figma,ai,androidstudio,vscode&perline=10&theme=dark"
-    alt="Faisal Hussain - Technology Stack"
-  />
-</a>
-
-</div>
-
----
-
-### 👨‍💻 Executive Summary
-
-I am a **Full-Stack & Mobile Software Engineer** specializing in architecting resilient backend systems, mission-critical cross-platform mobile apps, and high-concurrency e-commerce synchronization engines.
-
-- 🛒 **Distributed Commerce Infrastructure**: Designed centralized multi-marketplace backends synchronizing inventory in real-time across Shopify, WooCommerce, Amazon SP-API, eBay, and TikTok Shop with transactional PostgreSQL advisory locks, Redis/BullMQ worker pools, and idempotent webhooks.
-- 📱 **Offline-First Cross-Platform Mobile**: Engineered production Flutter applications featuring SQLite/Drift offline-first persistence, local vector stroke evaluations for handwriting recognition, and idempotent cloud synchronization.
-- 🤖 **Autonomous AI & Workflow Automation**: Deployed containerized self-hosted Docker n8n automation clusters, Supabase pgvector RAG pipelines, and automated lead enrichment meshes.
-- 🌐 **Modern Full-Stack Applications**: Crafted responsive web architectures with Angular 20, React, Next.js, and TypeScript powered by Node.js, Express, TypeORM, and relational databases.
-
----
-
-### 🐍 Contribution Activity & Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br />
-
-<h3 align="center">⚡ Engineering Snapshot</h3>
-
-<p align="center">
-  Building scalable applications, reliable backend systems, and connected digital experiences.
-</p>
-
-<div align="center">
-
-| 🏗️ Architecture | 📱 Mobile Engineering |
-|:---|:---|
-| Full-Stack Systems & REST APIs | Flutter · Android · iOS |
-| PostgreSQL · TypeORM · Redis | Firebase · Offline Workflows |
-
-| 🔄 Integrations | 🤖 AI & Automation |
-|:---|:---|
-| Shopify · WooCommerce · eBay | OpenAI · Gemini APIs |
-| Multi-Store Inventory & Sync | Intelligent Content Workflows |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1100&color=9CA3AF&center=true&vCenter=true&width=800&lines=Building+Web+%26+Mobile+Applications;Flutter+%7C+Angular+%7C+React+%7C+Node.js;Backend+APIs+%26+Business+Automation;E-Commerce+%26+Marketplace+Integrations;From+Idea+to+Production" alt="Developer specialties" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Scalable_Software-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEVELOPMENT-Production_Oriented-475569?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COLLABORATION-Open_to_Opportunities-16A34A?style=for-the-badge"/>
+<a href="https://faisalhussain.netlify.app/">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,js,ts,html,css,tailwind,vite,flutter,dart,nodejs,express,nestjs,php,wordpress,mysql,postgres,redis,firebase,docker,git,github,linux,vercel,netlify,postman,figma,androidstudio,vscode&perline=10&theme=dark" alt="Technology stack" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack_Engineering-374151?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-Mobile_%26_Backend-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LOCATION-Pakistan-6B7280?style=for-the-badge" />
 
 </div>
 
-</div>
+---
+
+## 👨‍💻 About Me
+
+I’m **Faisal Hussain**, a full-stack software engineer based in Karachi, Pakistan. I build web and mobile applications, backend systems, custom business tools, and integrations that connect platforms and simplify real operations.
+
+My work spans **Flutter apps, Angular and React interfaces, Node.js APIs, PostgreSQL databases, WordPress development, and e-commerce integrations**. I enjoy working across the product lifecycle—from designing the data model to shipping the user experience.
+
+> **My focus:** Practical software. Thoughtful architecture. Reliable integrations. Continuous improvement.
+
+## ⚡ What I Build
+
+| 🖥️ Web & Business Systems | 📱 Mobile Applications |
+|:--|:--|
+| Angular, React, Next.js, dashboards, admin panels | Flutter for Android & iOS, responsive layouts, API-connected features |
+| ⚙️ Backend & Data | 🛒 Commerce & Integrations |
+| Node.js, Express, TypeScript, REST APIs, PostgreSQL, TypeORM | Shopify, WooCommerce, eBay, Amazon & TikTok Shop workflows |
+| 🔄 Real-Time & Automation | 🤖 AI Features |
+| Socket.IO, webhooks, background jobs, sync workflows | OpenAI & Gemini API integrations, AI-assisted content experiences |
+
+## 🧰 Technical Toolkit
+
+| Area | Technologies & Experience |
+|:--|:--|
+| **Frontend** | Angular · React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS |
+| **Mobile** | Flutter · Dart · Android · iOS · Firebase · local persistence · media processing |
+| **Backend** | Node.js · Express · REST APIs · JWT · RBAC · Socket.IO · NestJS |
+| **Data & Jobs** | PostgreSQL · MySQL · TypeORM · Redis · BullMQ · RabbitMQ |
+| **Commerce** | Shopify · Liquid · WooCommerce · eBay · Amazon · TikTok Shop · WordPress plugins |
+| **AI & Tools** | OpenAI API · Gemini API · Git · GitHub · Docker · Postman · Figma |
+| **Deployment** | Railway · Netlify · cloud-hosted application workflows |
 
 ---
 
-### 🛠️ Technical Competencies
+## 🚀 Featured Work
 
-<table>
-  <tr>
-    <td width="20%" valign="top"><strong>Core Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>Frontend & Web</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>Mobile Architecture</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
-      <img src="https://img.shields.io/badge/SQLite_%2F_Drift-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/App_Store_%26_Play_Store-000000?style=flat-square&logo=googleplay&logoColor=white" alt="App Store" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>Backend & Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-      <img src="https://img.shields.io/badge/BullMQ-D93F66?style=flat-square&logo=bullmq&logoColor=white" alt="BullMQ" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>E-Commerce & APIs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Shopify_Admin_%26_Storefront_API-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-      <img src="https://img.shields.io/badge/WooCommerce_REST_API-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-      <img src="https://img.shields.io/badge/Amazon_SP--API-232F3E?style=flat-square&logo=amazon&logoColor=white" alt="Amazon SP-API" />
-      <img src="https://img.shields.io/badge/eBay_Trading_API-E53238?style=flat-square&logo=ebay&logoColor=white" alt="eBay" />
-      <img src="https://img.shields.io/badge/TikTok_Shop_API-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Shop" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>AI & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/n8n_Automations-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git_%2F_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-  </tr>
-</table>
+### 01 / Multi-Store Inventory & Marketplace Management
 
----
+**Centralized commerce operations · Full-stack platform · API integrations**
 
-### 🏛️ Featured Engineering Systems
+A business platform for managing stores, products, inventory and marketplace workflows from one place. My work includes product import and publishing, store integrations, inventory management, synchronization handling and administrative workflows.
 
-#### 1. Multi-Store Inventory & Marketplace Synchronization Engine
-*Enterprise E-Commerce SaaS Architecture*
-
-- **Problem:** Merchants selling across disparate channels (Shopify, WooCommerce, eBay, Amazon, TikTok Shop) face out-of-sync inventory, marketplace rate limits, and frequent overselling.
-- **Architecture:** 
-  - Designed a centralized Node.js/TypeORM and PostgreSQL backend integrated with Redis/BullMQ worker queues.
-  - Implemented row-level advisory locks to eliminate stock race conditions during simultaneous marketplace sales spikes.
-  - Engineered bidirectional webhook ingestion with cryptographic signature validation (HMAC) and strict idempotency tables.
-  - Built an Angular 20 administrative dashboard with real-time sync metrics, schema mapping, and automatic error retry queues.
-- **Tech Stack:** `Angular` `Node.js` `TypeORM` `PostgreSQL` `Redis / BullMQ` `Shopify API` `Amazon SP-API` `eBay API`
-
-#### 2. ILMI Platform — Offline-First Cross-Platform EdTech Ecosystem
-*Mobile Architecture & Multi-Tenant Infrastructure*
-
-- **Problem:** Students in low-connectivity regions require an uninterrupted digital learning experience with automated cloud synchronization upon reconnection.
-- **Architecture:**
-  - Built a production Flutter application utilizing SQLite and Drift for zero-latency offline persistence.
-  - Implemented interactive gesture-driven stroke vector validation for Urdu handwriting evaluation with local scoring algorithms.
-  - Engineered idempotent multi-tenant REST APIs in Node.js for synchronization, grading analytics, and role-based teacher/admin controls.
-- **Tech Stack:** `Flutter` `Dart` `SQLite / Drift` `Node.js` `Express` `PostgreSQL` `REST APIs`
-
-#### 3. Autonomous AI & Enterprise Workflow Automation Mesh
-*Production AI Pipeline Engineering*
-
-- **Problem:** Repetitive manual sales lead qualification, catalog enrichment, and cross-platform notifications create major operational bottlenecks.
-- **Architecture:**
-  - Deployed containerized, self-hosted Docker n8n automation clusters with isolated execution environments and dead-letter queue (DLQ) retry handlers.
-  - Integrated Supabase pgvector RAG pipelines for contextual retrieval and dynamic response synthesis via OpenAI and Gemini APIs.
-  - Engineered automated lead enrichment meshes extracting firmographics and executing batch Shopify GraphQL mutations.
-- **Tech Stack:** `n8n` `Docker` `Supabase (pgvector)` `OpenAI API` `Gemini API` `GraphQL` `Webhooks`
-
-#### 4. ADX Logistics — Automated Shipment & Waybill System
-*Logistics & Enterprise Workflow Automation*
-
-- **Problem:** Manual waybill authoring, rate calculations, and invoice generation created fulfillment delays and shipping discrepancies.
-- **Architecture:**
-  - Built an Angular frontend coupled with secure custom WordPress REST micro-services and custom relational database schemas.
-  - Automated Code128 barcode generation, automated weight/tier pricing calculation, and high-speed server-side PDF invoice rendering.
-  - Secured endpoints via JWT role-based access control and strict sanitization pipelines.
-- **Tech Stack:** `Angular` `PHP` `WordPress REST API` `MySQL` `JWT` `Barcode Generation`
-
----
-
-### 📈 GitHub Analytics
+`Angular` `Node.js` `Express` `TypeScript` `TypeORM` `PostgreSQL` `Marketplace APIs`
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0B1220" alt="GitHub Statistics" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&bg_color=0B1220&langs_count=8" alt="Top Languages" />
+<a href="https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b">
+  <img src="https://img.shields.io/badge/%E2%96%B6_WATCH_PROJECT_DEMO-Multi--Store_Inventory-374151?style=for-the-badge&logoColor=white" alt="Watch Multi-Store Inventory demo" />
+</a>
 
-<br />
+**[▶ Watch the full Multi-Store Inventory demo on Kapwing](https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b)**
 
-<img src="https://streak-stats.demolab.com?user=perci7890&theme=tokyonight&hide_border=true&stroke=38BDF8&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Contribution Streak" />
+</div>
+
+> GitHub README does not support iframe video embeds. The demo opens on Kapwing.
+
+### 02 / YouinX — Digital Reading Ecosystem
+
+Contributed to a digital content ecosystem spanning a **Flutter reading application**, an **Angular BookStudio** interface, and **React-based administration**. Worked on user experiences, application flows and backend-connected features.
+
+`Flutter` `Dart` `Angular` `React` `REST APIs`
+
+### 03 / Younbooks & Mobile Content Experiences
+
+Worked on Flutter-based reading and content experiences, including responsive UI, account workflows, media-related features and API-connected screens.
+
+`Flutter` `Dart` `Mobile UI` `REST APIs`
+
+### 04 / ADX Logistics — Shipping & Waybill System
+
+Built and contributed to shipping workflows with **Angular**, **custom WordPress plugins** and **REST endpoints**, including waybill generation, shipper/consignee forms, barcode labels, invoice previews, shipment status records and authentication.
+
+`Angular` `PHP` `WordPress` `MySQL` `JWT` `REST APIs`
+
+### 05 / TMMS — Management & Workflow Platform
+
+Contributed to a business management application with request workflows, relational data models, status handling, user notifications and **Socket.IO real-time events**.
+
+`Angular` `Node.js` `Express` `TypeORM` `PostgreSQL` `Socket.IO`
+
+### 06 / TanGlow — Service & Appointment Ecosystem
+
+A mobile and backend application ecosystem supporting service-oriented experiences and appointment workflows.
+
+`Flutter` `Node.js` `Express` `PostgreSQL` `REST APIs`
+
+### 07 / Interactive Learning Application
+
+Flutter-based learning experiences featuring profile and avatar selection, level progression, interactive activities, parental verification, audio experiences and progress reporting.
+
+`Flutter` `Dart` `Responsive UI` `Local Storage`
+
+### 08 / Custom WordPress & Business Websites
+
+Custom WordPress plugins, data-entry tools, REST integrations, responsive business websites and storefront customization. My broader web work includes business websites, landing pages and design-to-development implementation.
+
+`WordPress` `PHP` `MySQL` `JavaScript` `WooCommerce`
+
+<div align="center">
+
+**[Explore more projects and live work →](https://faisalhussain.netlify.app/)**
 
 </div>
 
 ---
 
-### 🤝 Engineering Philosophy
+## 🔗 How I Approach Integrations
 
-- **Resilience by Design:** Systems should be self-healing, utilizing idempotent operations, worker queues, and structured error boundaries.
-- **Performance First:** Sub-100ms API response targets, clean indexing strategies, and hardware-accelerated 60/120 FPS user interfaces.
-- **Clean Separation of Concerns:** Decoupled business logic, strict type contracts, modular architecture, and maintainable codebases.
-- **Measurable Business Impact:** Software exists to solve tangible user problems, reduce operational costs, and drive scalable revenue.
+```mermaid
+flowchart LR
+    A[Web / Mobile App] --> B[Backend APIs]
+    B --> C[(Database)]
+    B --> D[Background Jobs]
+    D --> E[External Platforms]
+    E --> B
+```
+
+I work on the practical challenges behind connected software: **authentication, data mapping, pagination, API limits, webhook handling, retry behavior, synchronization status and operational visibility**.
+
+## 🧠 Engineering Principles
+
+- **Build for maintainability:** Clear modules, understandable data models and reusable components.
+- **Design for real users:** Responsive interfaces, practical workflows and meaningful feedback.
+- **Handle failure thoughtfully:** Validation, useful errors, safe retries and operational visibility.
+- **Keep systems secure:** Appropriate authentication, authorization and careful API design.
+- **Ship and improve:** Deliver usable features, learn from real behavior and iterate.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top repository languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=perci7890&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=perci7890&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+<sub>Public GitHub activity does not reflect all work in private or client-owned repositories.</sub>
 
 ---
 
 <div align="center">
 
-### 📬 Let's Connect & Collaborate
+## 🤝 Let's Build Something Great
 
-Whether you are looking to architect a new product from scratch, scale an existing platform, or explore technical leadership:
+Have an interesting project, collaboration opportunity, or engineering challenge?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hussain-632019165/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisalhussain.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal445.fh@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_323_2421103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923232421103)
+I'm always interested in building meaningful digital products and solving real-world problems.
 
-<br />
+<a href="mailto:faisal445.fh@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-Contact_Me-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
+</a>
 
-```
-"Build thoughtfully. Integrate reliably. Ship with confidence."
-```
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" alt="Footer wave" />
+<sub>💻 Designed with purpose. Engineered for impact.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B7280,50:374151,100:111827&height=105&section=footer" alt="Footer" />
 
 </div>
