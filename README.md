@@ -111,10 +111,23 @@ Custom WordPress plugins, data-entry tools, REST integrations, responsive busine
 
 <div align="center">
 
-**[Explore more projects and live work →](https://faisalhussain.netlify.app/)**
+<br/>
+
+<sub><strong>BEYOND THE CODE</strong></sub>
+
+<h2>Explore What I've Built.</h2>
+
+<p>
+  Real-world applications, live products, and engineering projects — all in one place.
+</p>
+
+<a href="https://faisalhussain.netlify.app/">
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO_&_LIVE_PROJECTS-F59E0B?style=for-the-badge&labelColor=EA580C&logo=googlechrome&logoColor=white" alt="View Portfolio & Live Projects"/>
+</a>
+
+<br/><br/>
 
 </div>
-
 ---
 
 ## 🔗 How I Approach Integrations
@@ -144,22 +157,14 @@ I work on the practical challenges behind connected software: **authentication, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top repository languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0B1220" alt="GitHub Statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&bg_color=0B1220&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br />
 
-<img src="https://streak-stats.demolab.com?user=perci7890&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=perci7890&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com?user=perci7890&theme=tokyonight&hide_border=true&stroke=38BDF8&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Contribution Streak" />
 
 </div>
-
-<sub>Public GitHub activity does not reflect all work in private or client-owned repositories.</sub>
-
----
 
 <div align="center">
 
