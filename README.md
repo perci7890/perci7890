@@ -186,7 +186,6 @@ I'm always interested in building meaningful digital products and solving real-w
 <div align="center">
   <sub>✦ Thoughtfully Designed. Precisely Engineered. Built to Make an Impact. ✦</sub>
 </div>
-<br></br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B7280,50:374151,100:111827&height=105&section=footer" alt="Footer" />
 
 </div>
