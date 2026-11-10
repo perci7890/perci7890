@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/🎨_DESIGN-Modern_UI_%26_UX-FBBF24?style=for-the-badge&labelColor=1F2937&logoColor=white" />
 <img src="https://img.shields.io/badge/⚡_FOCUS-Full--Stack_Engineering-F59E0B?style=for-the-badge&labelColor=1F2937&logoColor=white" />
 <img src="https://img.shields.io/badge/🚀_BUILD-Mobile_%26_Backend-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white" />
-</div>
+</div></div>
 
 ---
 
