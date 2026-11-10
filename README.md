@@ -33,17 +33,15 @@ I am a **Full-Stack & Mobile Software Engineer** specializing in architecting re
 
 ---
 
-### 🎮 Interactive Arcade: Tic-Tac-Toe vs Faisal's Bot
-
-Take a quick break and play an interactive mini-game right from this profile:
+### 🐍 Contribution Activity & Snake Animation
 
 <div align="center">
 
-| Top Left | Top Center | Top Right |
-| :---: | :---: | :---: |
-| **❌**<br><sub>Faisal</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Top-Mid</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Top-Right</sub> |
-| [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Mid-Left</sub> | **❌**<br><sub>Faisal</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Mid-Right</sub> |
-| [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Bottom-Left</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Bottom-Mid</sub> | [**⚡ Block**](https://faisalhussain.netlify.app/)<br><sub>Defense Move</sub> |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br />
 
