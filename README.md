@@ -19,9 +19,14 @@
 
 <br/><br/>
 
-<div align="center"><img src="https://img.shields.io/badge/🎨_DESIGN-Modern_UI_%26_UX-FBBF24?style=for-the-badge&labelColor=1F2937&color=FBBF24&logoColor=white" />
-<img src="https://img.shields.io/badge/⚡_FOCUS-Full--Stack_Engineering-F59E0B?style=for-the-badge&labelColor=1F2937&color=F59E0B&logoColor=white" />
-<img src="https://img.shields.io/badge/🚀_BUILD-Mobile_%26_Backend-EA580C?style=for-the-badge&labelColor=1F2937&color=EA580C&logoColor=white" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎨_DESIGN-Modern_UI_%26_UX-92400E?style=for-the-badge&labelColor=1F2937" />
+
+<img src="https://img.shields.io/badge/⚡_FOCUS-Full--Stack_Engineering-9A3412?style=for-the-badge&labelColor=1F2937" />
+
+<img src="https://img.shields.io/badge/🚀_BUILD-Mobile_%26_Backend-7C2D12?style=for-the-badge&labelColor=1F2937" />
+
 </div></div>
 
 ---
