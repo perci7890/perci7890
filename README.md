@@ -19,8 +19,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack_Engineering-374151?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-Mobile_%26_Backend-4B5563?style=for-the-badge" />
+<div align="center">
+<img src="https://img.shields.io/badge/🎨_DESIGN-Modern_UI_%26_UX-FBBF24?style=for-the-badge&labelColor=1F2937&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_FOCUS-Full--Stack_Engineering-F59E0B?style=for-the-badge&labelColor=1F2937&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀_BUILD-Mobile_%26_Backend-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white" />
 </div>
 
 ---
@@ -177,13 +179,7 @@ I'm always interested in building meaningful digital products and solving real-w
 <a href="mailto:faisal445.fh@gmail.com">
   <img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-Contact_Me-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
 </a>
-
-<br/><br/>
-
 <sub>💻 Designed with purpose. Engineered for impact.</sub>
-
-<br/><br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B7280,50:374151,100:111827&height=105&section=footer" alt="Footer" />
 
 </div>
