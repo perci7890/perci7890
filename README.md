@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-faisal--hussain-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hussain-632019165/)
 [![Email](https://img.shields.io/badge/EMAIL-faisal445.fh%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal445.fh@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B92_323_2421103-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923232421103)
-[![Location](https://img.shields.io/badge/LOCATION-Karachi%2C_Pakistan-0f172a?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/)
+[![Location](https://img.shields.io/badge/LOCATION-Karachi%2C_Pakistan-374151?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Karachi%2C+Pakistan)
 
 <br />
 
