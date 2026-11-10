@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=FAISAL%20HUSSAIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Systems%20Lead&descSize=16&descAlignY=60" alt="Faisal Hussain Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=210&section=header&text=FAISAL%20HUSSAIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Systems%20Lead&descSize=16&descAlignY=60" alt="Faisal Hussain Header Banner" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-faisalhussain.netlify.app-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://faisalhussain.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-faisal--hussain-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hussain-632019165/)
