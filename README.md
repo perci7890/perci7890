@@ -1,16 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0284c7&height=220&section=header&text=FAISAL%20HUSSAIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20Architect%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=60" alt="Faisal Hussain Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=FAISAL%20HUSSAIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Systems%20Lead&descSize=16&descAlignY=60" alt="Faisal Hussain Header Banner" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-faisalhussain.netlify.app-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://faisalhussain.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-faisal--hussain-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hussain-632019165/)
 [![Email](https://img.shields.io/badge/EMAIL-faisal445.fh%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal445.fh@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B92_323_2421103-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923232421103)
 [![Location](https://img.shields.io/badge/LOCATION-Karachi%2C_Pakistan-0f172a?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/)
-[![Status](https://img.shields.io/badge/STATUS-Available_for_Opportunities-10b981?style=flat-square)](mailto:faisal445.fh@gmail.com)
 
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Architect+%E2%80%A2+React%2C+Angular%2C+Next.js%2C+Node.js;Cross-Platform+Mobile+Engineer+%E2%80%A2+Flutter+%26+Dart;Distributed+E-Commerce+Sync+%26+High-Concurrency+Pipelines;Autonomous+AI+Workflows+%26+Enterprise+Integrations" alt="Typing Animation" />
+
+<br />
+
+<a href="https://faisalhussain.netlify.app/">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,dart,flutter,nodejs,postgres,redis,docker,graphql,supabase&theme=dark" alt="Core Technologies Deck" />
+</a>
 
 </div>
 
@@ -18,13 +24,40 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Full-Stack & Mobile Software Engineer** with deep expertise in architecting resilient backend systems, mission-critical cross-platform mobile apps, and high-concurrency e-commerce synchronization engines. 
+I am a **Full-Stack & Mobile Software Engineer** specializing in architecting resilient backend systems, mission-critical cross-platform mobile apps, and high-concurrency e-commerce synchronization engines.
 
-With end-to-end ownership spanning system design to production deployment, I specialize in:
-- **Distributed E-Commerce Infrastructure**: Designing fault-tolerant inventory synchronization meshes across Shopify, WooCommerce, Amazon SP-API, eBay, and TikTok Shop with worker queues, transactional locks, and idempotent webhooks.
-- **Offline-First Cross-Platform Mobile**: Engineering Flutter applications with local SQLite/Drift persistence, vector gesture evaluations, and background cloud sync.
-- **Autonomous AI & Workflow Automation**: Building containerized n8n enterprise automation pipelines, Supabase pgvector RAG agents, and intelligent lead processing engines.
-- **Enterprise Web Platforms**: Crafting high-performance web frontends with Angular, React, Next.js, and TypeScript backed by Node.js, TypeORM, and PostgreSQL.
+- 🛒 **Distributed Commerce Infrastructure**: Designed centralized multi-marketplace backends synchronizing inventory in real-time across Shopify, WooCommerce, Amazon SP-API, eBay, and TikTok Shop with transactional PostgreSQL advisory locks, Redis/BullMQ worker pools, and idempotent webhooks.
+- 📱 **Offline-First Cross-Platform Mobile**: Engineered production Flutter applications featuring SQLite/Drift offline-first persistence, local vector stroke evaluations for handwriting recognition, and idempotent cloud synchronization.
+- 🤖 **Autonomous AI & Workflow Automation**: Deployed containerized self-hosted Docker n8n automation clusters, Supabase pgvector RAG pipelines, and automated lead enrichment meshes.
+- 🌐 **Modern Full-Stack Applications**: Crafted responsive web architectures with Angular 20, React, Next.js, and TypeScript powered by Node.js, Express, TypeORM, and relational databases.
+
+---
+
+### 🎮 Interactive Arcade: Tic-Tac-Toe vs Faisal's Bot
+
+Take a quick break and play an interactive mini-game right from this profile:
+
+<div align="center">
+
+| Top Left | Top Center | Top Right |
+| :---: | :---: | :---: |
+| **❌**<br><sub>Faisal</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Top-Mid</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Top-Right</sub> |
+| [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Mid-Left</sub> | **❌**<br><sub>Faisal</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Mid-Right</sub> |
+| [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Bottom-Left</sub> | [**⭕ Play**](https://faisalhussain.netlify.app/)<br><sub>Bottom-Mid</sub> | [**⚡ Block**](https://faisalhussain.netlify.app/)<br><sub>Defense Move</sub> |
+
+<br />
+
+```text
+┌──(faisal㉿portfolio)-[~/system/telemetry]
+└─$ ./run_diagnostics.sh --mode=production
+[✔] Core Architecture .... Distributed Multi-Store Sync (BullMQ + Redis)
+[✔] Mobile Pipeline ...... Flutter Engine 3.x (SQLite/Drift Offline-First)
+[✔] Automation Engine .... n8n Clusters + Supabase pgvector RAG
+[✔] Uptime / Reliability . 99.98% Idempotent Webhook Transactions
+[✔] Status ............... READY FOR HIGH-IMPACT COLLABORATIONS
+```
+
+</div>
 
 ---
 
@@ -150,8 +183,8 @@ With end-to-end ownership spanning system design to production deployment, I spe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0B1220" alt="GitHub Statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&bg_color=0B1220&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0B1220" alt="GitHub Statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&bg_color=0B1220&langs_count=8" alt="Top Languages" />
 
 <br />
 
@@ -187,6 +220,6 @@ Whether you are looking to architect a new product from scratch, scale an existi
 "Build thoughtfully. Integrate reliably. Ship with confidence."
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,55:0f172a,100:020617&height=110&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" alt="Footer wave" />
 
 </div>
