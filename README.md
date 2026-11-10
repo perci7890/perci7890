@@ -1,168 +1,117 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Faisal%20Hussain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20Flutter%20%7C%20Backend%20%7C%20Cloud&descAlignY=56&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0891B2&height=245&section=header&text=FAISAL%20HUSSAIN&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20MOBILE%20%E2%80%A2%20BACKEND&descSize=16&descAlignY=59" alt="Faisal Hussain banner" />
 
-### 👨‍💻 Building Digital Products From Idea to Production
+### I turn complex ideas into production-ready digital products.
 
-**Full-Stack Developer • Mobile App Engineer • Backend & API Developer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+Full-Stack+Web+Applications;Engineering+Flutter+Apps+for+iOS+%26+Android;Designing+APIs%2C+Databases+%26+Backend+Systems;Connecting+E-commerce+Platforms+at+Scale;Creating+Software+That+Solves+Real+Problems" alt="Animated specialties" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Developer;Flutter+%7C+Angular+%7C+React+%7C+Next.js;Node.js+%7C+TypeScript+%7C+PostgreSQL;E-commerce+%26+Marketplace+Integrations;Turning+Complex+Ideas+Into+Real+Software" alt="Typing animation" />
+<br />
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faisalhussain.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perci7890)
+[![Demo](https://img.shields.io/badge/WATCH_PROJECT_DEMO-0E7490?style=for-the-badge&logo=playstation&logoColor=white)](https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b)
 
-<a href="https://faisalhussain.netlify.app/">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/perci7890">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=perci7890&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/Location-Karachi%2C_Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_to-Remote_%26_On--site-16A34A?style=for-the-badge"/>
+![Location](https://img.shields.io/badge/📍_Karachi%2C_Pakistan-0F172A?style=flat-square)
+![Remote](https://img.shields.io/badge/🌍_Remote_%26_On--site-0F766E?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=perci7890&label=Profile%20Views&color=0891b2&style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-```typescript
-const faisal = {
-  name: "Faisal Hussain",
-  role: "Full-Stack Software Engineer",
-  location: "Karachi, Pakistan",
+I'm **Faisal Hussain**, a **Full-Stack Software Engineer** working across **web, mobile, backend, and integrations**. I build applications end to end: architecting databases, developing secure APIs, creating responsive interfaces, connecting third-party platforms, and getting software ready for real users.
 
-  specialties: [
-    "Full-Stack Web Development",
-    "Cross-Platform Mobile Applications",
-    "Backend Engineering & REST APIs",
-    "E-commerce & Marketplace Integrations",
-    "Business Automation & Inventory Systems",
-    "AI-Powered Application Features"
-  ],
+My work includes **multi-store commerce systems, Flutter apps, enterprise workflows, logistics automation, custom WordPress integrations, and AI-assisted experiences**.
 
-  frontend: ["Angular", "React", "Next.js", "Tailwind CSS"],
-  mobile: ["Flutter", "Dart"],
-  backend: ["Node.js", "Express", "TypeScript", "NestJS"],
-  databases: ["PostgreSQL", "MySQL"],
-  architecture: ["REST APIs", "RBAC", "JWT", "WebSockets"],
-  interests: ["SaaS", "Automation", "Scalable Systems"],
-
-  philosophy: "Build. Integrate. Ship. Improve."
-};
-```
-
-I'm a software engineer focused on building **practical, production-oriented digital solutions**.
-
-My experience spans cross-platform mobile applications, full-stack web platforms, backend APIs, business management systems, and third-party integrations.
-
-I enjoy working across the entire development lifecycle — from database design and system architecture to polished interfaces, deployment, and continuous improvement.
-
-**What drives me?** Solving real business problems through reliable, maintainable software.
+- 🧩 **What I build:** Full-stack applications, mobile products, backend services, and business platforms
+- ⚙️ **What I enjoy:** Solving tricky integration problems and simplifying complex workflows
+- 🛒 **Special interest:** E-commerce, inventory synchronization, and marketplace APIs
+- 🚀 **Engineering mindset:** Practical architecture, maintainable code, and iterative delivery
+- 🤝 **Opportunities:** Remote and on-site software engineering roles and collaborations
 
 ---
 
-## 🛠️ Technology Arsenal
+## ⚡ Engineering Toolkit
 
 <div align="center">
 
-### 🎨 Frontend Development
+**FRONTEND & WEB**
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,tailwind,vite&perline=9" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,vite&perline=9" alt="Frontend technology icons" />
 
-### 📱 Mobile Development
+**MOBILE**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&perline=8" alt="Mobile technology icons" />
 
-### ⚙️ Backend Engineering
+**BACKEND & DATA**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,redis&perline=8" alt="Backend and database icons" />
 
-### 🗄️ Databases & Infrastructure
+**TOOLS & DELIVERY**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github,linux,nginx&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,wordpress,figma,vercel,netlify&perline=8" alt="Development tools icons" />
 
-### ☁️ Cloud, Platforms & Design
+<br />
 
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,wordpress,figma,ai&perline=8" />
-
-<br/>
-
-**Additional Technologies & Tools**
-
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
-![BullMQ](https://img.shields.io/badge/BullMQ-EA4B71?style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-D93F66?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 What I Specialize In
+## 🏗️ What I Bring to a Project
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Applications
+### 🌐 Full-Stack Development
 
-- Responsive web applications
-- Angular, React & Next.js
-- Admin panels and dashboards
-- Business management platforms
-- SaaS application development
-- Authentication & role-based access
-- Custom workflows and automation
+Responsive interfaces, admin dashboards, SaaS-style platforms, authentication, business workflows, and custom web applications.
+
+**Angular · React · Next.js · TypeScript**
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Mobile Engineering
+### 📱 Cross-Platform Mobile
 
-- Flutter for Android & iOS
-- REST API integrations
-- Authentication and social sign-in
-- Firebase integrations
-- In-app purchases & subscriptions
-- Local storage and offline workflows
-- Media processing and playback
+Flutter applications for Android and iOS, API integration, social login, media experiences, local storage, and subscription flows.
+
+**Flutter · Dart · Firebase**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Architecture
+### ⚙️ Backend Engineering
 
-- Node.js, Express & TypeScript
-- RESTful API development
-- PostgreSQL & TypeORM
-- JWT authentication & RBAC
-- Real-time Socket.IO features
-- Background jobs and queues
-- Third-party service integrations
+REST APIs, relational data modeling, role-based access, JWT authentication, real-time notifications, and asynchronous workflows.
+
+**Node.js · Express · TypeORM · PostgreSQL**
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Commerce Engineering
+### 🛒 Commerce & Integrations
 
-- Multi-store inventory management
-- Shopify & WooCommerce
-- Marketplace API integrations
-- Product and order synchronization
-- Product import and publishing
-- Webhook-based workflows
-- Background synchronization jobs
+Product imports, multi-store operations, marketplace connectors, inventory workflows, synchronization, webhooks, and error recovery.
+
+**Shopify · WooCommerce · eBay · APIs**
 
 </td>
 </tr>
@@ -170,28 +119,46 @@ I enjoy working across the entire development lifecycle — from database design
 
 ---
 
-## 🏆 Featured Projects
+## 🌟 Selected Work
 
-### 🛍️ Multi-Store Inventory & Marketplace Management
+### 01 / Multi-Store Inventory & Marketplace Management
 
-**Full-Stack Commerce Platform | Inventory Automation | Marketplace Integration**
+**Featured Project** · Full-stack commerce platform · Business automation
 
-A centralized inventory and commerce management platform designed to simplify operations across multiple online stores and marketplaces.
+A centralized platform designed to help merchants manage products, inventory, stores, and marketplace operations without switching between disconnected systems.
 
-**Key Capabilities**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Platform capabilities**
 
 - Centralized product and inventory management
-- Multiple store connections
+- Multi-store connections and administration
 - Product import and publishing workflows
-- Cross-platform product synchronization
-- Order and inventory management
-- Platform-specific product handling
-- Synchronization status and history
-- Error handling and retry mechanisms
-- Background processing and queue-based operations
-- Administrative dashboards and business workflows
+- Cross-platform synchronization
+- Order and inventory workflows
+- Sync tracking, errors, and retry handling
+- Background processing and integration services
 
-**Marketplace Ecosystem**
+</td>
+<td width="50%" valign="top">
+
+**Engineering focus**
+
+- Angular-based management experience
+- Node.js and Express APIs
+- TypeScript business logic
+- PostgreSQL and TypeORM
+- Marketplace-specific data mapping
+- Reliable external API interactions
+- Queue-oriented synchronization patterns
+
+</td>
+</tr>
+</table>
+
+**Commerce ecosystem:**
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
@@ -199,268 +166,172 @@ A centralized inventory and commerce management platform designed to simplify op
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=amazon&logoColor=white)
 ![TikTok Shop](https://img.shields.io/badge/TikTok_Shop-000000?style=flat-square&logo=tiktok&logoColor=white)
 
-**Technology:** `Angular` `Node.js` `Express` `TypeScript` `TypeORM` `PostgreSQL`
-
-**🎬 Project Demonstration**
-
-https://github.com/user-attachments/assets/REPLACE_WITH_VIDEO_ID
-
-> A demonstration of the platform's interface and core inventory workflows. Replace the video placeholder with an uploaded GitHub video.
-
----
-
-### 📚 YouinX — Digital Reading Ecosystem
-
-**Flutter Mobile App | Content Platform | Backend Integration**
-
-Contributed to a digital reading ecosystem spanning mobile applications, content management, and administrative interfaces.
-
-**Areas of Development**
-
-- Flutter mobile application interfaces
-- Reader-focused user experiences
-- API integration and backend connectivity
-- Content and account management workflows
-- Angular-based BookStudio interfaces
-- React-based administration interfaces
-- Authentication and data-driven features
-
-**Technology:** `Flutter` `Dart` `Angular` `React` `REST APIs`
-
----
-
-### 🚚 ADX Logistics — Shipping & Waybill Management
-
-**Logistics Automation | Angular | WordPress | Custom APIs**
-
-Developed and contributed to logistics workflows connecting a web application with custom WordPress backend services.
-
-**Key Features**
-
-- Shipment and waybill generation
-- Shipper and consignee management
-- Barcode-based shipping labels
-- Invoice and document printing
-- Shipment status tracking
-- Administrative management workflows
-- Custom WordPress database tables
-- Custom REST API endpoints
-- JWT-based authentication
-
-**Technology:** `Angular` `WordPress` `PHP` `MySQL` `REST APIs`
-
----
-
-### 📋 TMMS — Workflow & Management System
-
-**Enterprise Web Application | Backend Services | Real-Time Features**
-
-Worked on a management platform involving structured business workflows, API services, and user-specific notifications.
-
-**Key Features**
-
-- Role-based access workflows
-- Request creation and cancellation
-- Workflow status management
-- Real-time notifications with Socket.IO
-- Relational database integration
-- Backend API development
-- Administrative interfaces
-
-**Technology:** `Angular` `Node.js` `TypeORM` `PostgreSQL` `Socket.IO`
-
----
-
-### ☀️ Solar Commerce & Services Platform
-
-**E-commerce | Solar Calculators | Installation & Maintenance**
-
-A Pakistan-focused solar commerce and service platform combining equipment discovery, system planning, and service workflows.
-
-**Areas of Development**
-
-- Solar product catalog and storefront
-- System sizing and cost estimation
-- Installation and service booking flows
-- Maintenance and inspection workflows
-- Customer quotation experiences
-- Responsive business interfaces
-
-**Focus:** `Full-Stack Development` `E-commerce` `Business Automation`
-
----
-
-### ☀️ TanGlow — Service & Appointment Platform
-
-**Mobile Application | Booking Workflows | Backend APIs**
-
-A service-oriented application ecosystem built around tanning services and appointment management.
-
-**Technology:** `Flutter` `Node.js` `Express` `PostgreSQL` `REST APIs`
-
----
-
-## 🔗 E-commerce & API Integrations
-
 <div align="center">
 
-**Building connections between platforms, services, and business operations.**
+#### 🎬 Watch the Product Walkthrough
+
+<a href="https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b">
+<img src="https://placehold.co/1100x550/0B1220/67E8F9/png?text=MULTI-STORE+INVENTORY%0A%0A%E2%96%B6+WATCH+THE+DEMO" width="88%" alt="Click to watch the Multi-Store Inventory demo on Kapwing" />
+</a>
+
+<br />
+
+[![Watch Demo](https://img.shields.io/badge/▶_WATCH_FULL_DEMO-0891B2?style=for-the-badge&logoColor=white)](https://www.kapwing.com/videos/6af2cbbaa55063abc4909b2b)
+
+*See the application and its management workflows in action.*
 
 </div>
 
-```mermaid
-flowchart TD
-    A["Central Management Platform"]
-    B["Backend API & Business Logic"]
-    C["Database & Sync Processing"]
-    D["Shopify"]
-    E["WooCommerce"]
-    F["eBay"]
-    G["Amazon"]
-    H["TikTok Shop"]
-
-    A --> B
-    B <--> C
-    B <--> D
-    B <--> E
-    B <--> F
-    B <--> G
-    B <--> H
-```
-
-My integration work focuses on connecting systems through APIs, synchronizing business data, and making complex workflows easier to manage.
-
-**Core areas:** Product data • Inventory • Orders • Webhooks • Authentication • Synchronization • Error handling
+> The demo opens on Kapwing. To play directly inside GitHub, upload an MP4 as a GitHub attachment and replace this section with the resulting attachment URL.
 
 ---
 
-## 🤖 AI & Automation
+### 02 / YouinX — Digital Reading Ecosystem
 
-I explore and integrate AI-powered functionality into applications to improve content workflows, user experiences, and business operations.
+**Mobile experiences · Reader workflows · Content platforms**
 
-**Technologies & Areas**
+Contributed to a digital reading ecosystem with a Flutter mobile experience, API-connected content features, and complementary web-based tools for content and administration.
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+`Flutter` `Dart` `Angular` `React` `REST APIs`
 
-- AI-assisted content generation
-- OpenAI and Gemini API integration
-- AI features in mobile applications
-- Backend-driven AI requests
-- Content and media workflows
-- Workflow automation concepts
+**Highlights:** Reader-oriented mobile UI, account and content workflows, BookStudio interfaces, and administration features.
 
 ---
 
-## 🧩 How I Engineer Software
+### 03 / Younbooks & Learning Experiences
+
+**Flutter · Content delivery · Mobile UI**
+
+Worked on Flutter-driven reading and learning experiences, including responsive layouts, profile-based flows, media handling, and API-connected functionality.
+
+`Flutter` `Dart` `Responsive UI` `API Integration`
+
+---
+
+### 04 / ADX Logistics — Shipping & Waybill System
+
+**Logistics automation · Custom WordPress APIs · Angular**
+
+Developed and contributed to shipping workflows connecting a web interface with custom WordPress backend services.
+
+**Highlights:** Waybill generation, shipper/consignee forms, barcode labels, invoice printing, shipment status management, custom database tables, and authenticated API endpoints.
+
+`Angular` `PHP` `WordPress` `MySQL` `REST APIs` `JWT`
+
+---
+
+### 05 / TMMS — Enterprise Workflow Platform
+
+**Business workflows · Real-time notifications · Relational data**
+
+Contributed to an enterprise management system featuring request lifecycle operations, user-specific notifications, backend services, and data-driven administration.
+
+**Highlights:** Request management, access-controlled workflows, Socket.IO notifications, relational data models, and API development.
+
+`Angular` `Node.js` `TypeORM` `PostgreSQL` `Socket.IO`
+
+---
+
+### 06 / TanGlow — Service & Appointment Ecosystem
+
+**Mobile application · Booking workflows · Backend services**
+
+A service-oriented application ecosystem centered on appointment management, user experiences, and API-backed operations.
+
+`Flutter` `Node.js` `Express` `PostgreSQL` `REST APIs`
+
+---
+
+### 07 / Solar Commerce & Service Platform
+
+**E-commerce · Solar planning · Service booking**
+
+A Pakistan-focused solar commerce and service platform project combining equipment discovery, solar planning experiences, quotations, and installation or maintenance workflows.
+
+`Full-Stack Web` `E-commerce` `Responsive UI` `Business Workflows`
+
+---
+
+### 08 / Custom WordPress & Business Websites
+
+**Business websites · Plugin development · API integrations**
+
+Experience building and customizing WordPress-based business systems, integrating them with Angular applications, and developing tailored workflows beyond conventional content management.
+
+**Highlights:** Custom plugins, database-backed forms, REST endpoints, business dashboards, and responsive website experiences.
+
+`WordPress` `PHP` `MySQL` `JavaScript` `REST APIs`
+
+**Explore more work:** [View my complete portfolio](https://faisalhussain.netlify.app/)
+
+---
+
+## 🔄 From UI to Infrastructure
 
 ```mermaid
 flowchart LR
-    A["Idea"] --> B["Architecture"]
-    B --> C["Database & API"]
-    C --> D["Frontend / Mobile"]
-    D --> E["Integration"]
-    E --> F["Testing"]
-    F --> G["Deployment"]
-    G --> H["Iteration"]
+    A["Product Idea"] --> B["Architecture"]
+    B --> C["Database + APIs"]
+    C --> D["Web / Mobile UI"]
+    D --> E["Integrations"]
+    E --> F["Testing + Deployment"]
+    F --> G["Iteration"]
 ```
 
-I believe good software should be:
-
-**Maintainable** — Easy to understand and extend.
-
-**Secure** — Built with appropriate authentication and access controls.
-
-**Scalable** — Designed with future growth in mind.
-
-**Practical** — Focused on real user and business needs.
-
-**Reliable** — Supported by testing, error handling, and monitoring.
+I care about **clear architecture, secure data handling, maintainable code, resilient integrations, and interfaces that people actually enjoy using**.
 
 ---
 
-## 📊 GitHub Analytics
+## 🤖 AI-Powered Features & Automation
+
+My application work also includes integrating **OpenAI and Google Gemini APIs** into backend-driven content generation workflows and mobile experiences.
+
+- AI-assisted text and content generation
+- Backend-managed AI API requests
+- Media and content creation workflows
+- Application features that combine AI output with user controls
+- Exploration of workflow automation and service integrations
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=perci7890&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top GitHub languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perci7890&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="170" alt="Most used languages"/>
+<br />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=perci7890&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
-<img src="https://streak-stats.demolab.com?user=perci7890&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=perci7890&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
-> GitHub statistics reflect public repository activity and may not represent work completed in private or client-owned repositories.
+> GitHub statistics reflect visible repository activity, not the full scope of private or client work. Third-party statistics widgets may occasionally be unavailable.
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 What I'm Exploring
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=perci7890&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/perci7890/perci7890/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
-
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-- Building and improving full-stack business applications
-- Multi-platform commerce and inventory systems
-- Scalable backend architecture and API integrations
-- Flutter mobile application development
-- AI integrations and workflow automation
-- Creating practical software products for real businesses
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving **full-stack development, Flutter, backend engineering, e-commerce systems, and software product development**.
-
-Whether it's a mobile application, business platform, backend integration, or a complete software product, I enjoy collaborating on meaningful technical challenges.
-
-<div align="center">
-
-<a href="https://faisalhussain.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/perci7890">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**📍 Karachi, Pakistan | 🌍 Remote & On-site Opportunities**
-
-</div>
+`Scalable backend architecture` · `Multi-platform commerce` · `Flutter products` · `AI integrations` · `Workflow automation` · `Practical SaaS`
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" />
+### Have a project or engineering challenge in mind?
 
-### 💻 Build. Integrate. Ship. Improve.
+I enjoy collaborating on products that solve meaningful problems — from a mobile app or internal dashboard to a full-stack platform with complex integrations.
 
-*Turning complex ideas into useful software.*
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_WORK-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faisalhussain.netlify.app/)
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perci7890)
 
-**Thanks for visiting! 👋**
+<br />
+
+**Build thoughtfully. Integrate reliably. Ship confidently.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:172554,100:020617&height=120&section=footer" alt="Footer wave" />
 
 </div>
