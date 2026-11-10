@@ -180,7 +180,9 @@ I'm always interested in building meaningful digital products and solving real-w
   <img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-Contact_Me-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
 </a>
 <br></br>
-<sub>💻 Designed with purpose. Engineered for impact.</sub>
+<div align="center">
+  <sub>✦ Thoughtfully Designed. Precisely Engineered. Built to Make an Impact. ✦</sub>
+</div>
 <br></br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B7280,50:374151,100:111827&height=105&section=footer" alt="Footer" />
 
